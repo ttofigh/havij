@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.git" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/org.onosproject.xran" isTestSource="false"  packagePrefix="org.onosproject.xran"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/webapp" isTestSource="false"  packagePrefix="apps.xran.src.main.webapp"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java/org.onosproject.xran" isTestSource="true" />
+
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cli" scope="COMPILE"  />
+    <orderEntry type="module" module-name="core_api" scope="COMPILE"  />
+    <orderEntry type="module" module-name="core_common" scope="COMPILE"  />
+    <orderEntry type="module" module-name="core_store_serializers" scope="COMPILE"  />
+    <orderEntry type="module" module-name="lib" scope="COMPILE"  />
+    <orderEntry type="module" module-name="utils_junit" scope="TEST"  />
+    <orderEntry type="module" module-name="utils_misc" scope="COMPILE"  />
+    <orderEntry type="module" module-name="utils_osgi" scope="COMPILE"  />
+    <orderEntry type="module" module-name="utils_rest" scope="COMPILE"  />
+    <orderEntry type="library" name="library_apps_xran_netty_transport_sctp" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_commons_collections" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_commons_configuration" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_commons_io" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_commons_lang" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_commons_lang3" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_commons_logging" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_commons_pool" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_easymock" scope="TEST" level="project"  />
+    <orderEntry type="library" name="library_lib_guava" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_guava_testlib" scope="TEST" level="project"  />
+    <orderEntry type="library" name="library_lib_hamcrest_all" scope="TEST" level="project"  />
+    <orderEntry type="library" name="library_lib_hamcrest_optional" scope="TEST" level="project"  />
+    <orderEntry type="library" name="library_lib_jackson_annotations" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_jackson_core" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_jackson_databind" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_javax_ws_rs_api" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_jsr305" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_junit" scope="TEST" level="project"  />
+    <orderEntry type="library" name="library_lib_netty_buffer" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_netty_common" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_netty_handler" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_netty_transport" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_org_apache_felix_scr" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_org_apache_felix_scr_annotations" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_org_apache_karaf_features_core" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_org_apache_karaf_shell_console" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_org_apache_karaf_system_core" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_org_apache_servicemix_bundles_dom4j" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_org_osgi_compendium" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_osgi_core" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_slf4j_api" scope="COMPILE" level="project"  />
+    <orderEntry type="library" name="library_lib_swagger_annotations" scope="COMPILE" level="project"  />
+
+  </component>
+</module>
